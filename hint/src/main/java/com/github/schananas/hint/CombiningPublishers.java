@@ -115,7 +115,7 @@ class acid_durability
 
     public void execute() {
         printHint(
-                "This task is combination of previous exercises. The trick is in nesting withing operators...");
+                "This task is combination of previous exercises. The trick is in nesting within operators...");
     }
 }
 
